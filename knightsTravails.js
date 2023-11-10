@@ -43,3 +43,11 @@ class Board {
 
 let board = new Board();
 board.knightMoves([5, 2], [3, 2]);
+
+// This is what it prints out
+
+/*  => You made it in 2 moves! Here's your path:
+    [ 5, 2 ]
+    [ 4, 4 ]
+    [ 3, 2 ]
+*/
